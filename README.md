@@ -2,6 +2,8 @@
 
 This is a simple script for reading magstripe and flashing to ATtiny85 on your Magspoof device, using Rasperry GPIO.
 
+Original credits to Samy Kamkar @samyk and Kirils Solovjovs @0ki for making this possible. Also for prb3333 for making the instructables for Raspberry. 
+
 ## Dependencies
 
 ```
