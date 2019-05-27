@@ -6,11 +6,13 @@ Original credits to Samy Kamkar @samyk and Kirils Solovjovs @0ki for making this
 
 ## Dependencies
 
-A magstripe reader (I use MSR-100).
-Raspberry Pi
-Avrdude and arduino-cli installed with ATtiny85, and arduino core.
-Add the ATtiny boards to your arduino-cli.yaml on your home folder
-Install it along with arduino core
+- A magstripe reader (I use MSR-100).
+- Raspberry Pi
+- Avrdude and arduino-cli installed with ATtiny85, and arduino core.
+- Add the ATtiny boards to your arduino-cli.yaml on your home folder
+- Install it along with arduino core
+- Some wire
+- Magspoof with ATtiny85
 
 ```
 apt-get install avrdude arduino-cli
